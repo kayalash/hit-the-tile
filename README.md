@@ -1,7 +1,7 @@
 # Hit the Tile
 This is a game that I made for my Grade 12 Culminating Activity Project. 
 
-We we're instructed to use Java and the Ready to Program IDE by Holtsoft to create
+We were instructed to use Java and the Ready to Program IDE by Holtsoft to create
 a Java applet game using  the mouse, keyboard, sound and graphics Java applets. 
 
 Unfortunately, this game only works on the Ready to Program IDE that I built it on. You
