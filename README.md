@@ -1,6 +1,4 @@
-# hit-the-tile
-Hit the tile
-
+# Hit the Tile
 This is a game that I made for my Grade 12 Culminating Activity Project. 
 
 We we're instructed to use Java and the Ready to Program IDE by Holtsoft to create
